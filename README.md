@@ -1,5 +1,4 @@
-﻿{::nomarkdown}
-
+﻿```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -219,7 +218,7 @@
           <p><span style="font-size: 15px" class="label label-default">Original Image given in the Dataset:</span></p>
           <img height="250" width="350" src="project_images/orig.jpg">
       </div>
-      <div class="col-md-6">
+          <div class="col-md-6">
          <p><span style="font-size: 15px" class="label label-default">Aplying Grey scale and Bulrring techniques to the images:</span></p>
           <img height="250" width="350" src="project_images/original.jpg">
       </div><br><br>
@@ -297,5 +296,4 @@
 </body>
 </html>
 
-
-{:/}
+```
